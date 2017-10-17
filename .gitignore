@@ -57,6 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
-# general testing files
-out.json
-*.pdf
+# output files
+priced-routes.json
